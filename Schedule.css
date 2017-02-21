@@ -1,0 +1,36 @@
+/* Color Palette found from http://www.colourlovers.com/palette/242413/Caramel_Bear */
+
+Table {
+  text-align: left;
+}
+
+Td {
+  height: 50px;
+  width: 150px;
+}
+
+.Th {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.In {
+  background-color: #FFB03B;
+}
+
+.TP {
+  background-color: #5E0805;
+  color: #FFCB7D;
+}
+
+Td:hover {
+  background-color: #BA0C00;
+  color: lightblue;
+}
+
+/* The other colors in the palette wouldn't have looked good on the text hover so I used lightblue to offset with the red because I didn't really want to find another palette and have to credit it so I just used lightblue */
